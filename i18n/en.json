@@ -1,0 +1,30 @@
+{
+	"side_heading_1": "Angular 8 Site Template",
+	"side_heading_2": "Angular Admin Template",
+	"paragraph_1": "Reuse the beautiful, responsive and flexible custom components we built for this Angular 6 Template. With Bootstrap 4, Angular Universal (Server Side Rendering), SEO, Lazy Loading and a detailed documentation on how to get started building Angular apps. Tons of use cases implemented the Angular way such as authentication flows, product listing, filtering, forms, routing guards and more.",
+	"paragraph_2": "Created with performance and ease of development in mind, this Angular 5 web template is something you will love. It includes all the components that you might need inside a project and a detailed documentation on how to get started.",
+	"register":{
+		"title": "User Registration",
+		"title_desc": "Complete your registration",
+		"username": "Username",
+		"email": "Email Address",
+		"fname": "First Name",
+		"lname": "Last Name",
+		"address": "Address",
+		"city": "City",
+		"country": "Country",
+		"postcode": "Postal Code",
+		"submit": "Submit",
+		"register_header": "Register",
+		"languages": "Languages"
+	},
+	"fcm": {
+		"title": "Send Push Notifications",
+		"title_desc": "",
+		"msg_title": "Title",
+		"msg_body": "Body",
+		"devices": "Devices",
+		"fcm_header": "Create Push Notification"
+	}
+
+}

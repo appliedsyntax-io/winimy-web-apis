@@ -1,0 +1,20 @@
+{
+	"app":{
+		"routesDirectory": "/routes",
+		"backendBaseURL": "http://localhost:3000/",
+		"frontedBaseURL": "http://localhost:4200/",
+		"routes": [
+			{
+				"basePath": "/",
+				"file": "index.js"
+			},
+			{
+				"basePath": "/api/users",
+				"file": "users.js"
+			}
+		],
+		"modelsDirectory": "/models",
+		"dbURL": "mongodb://localhost:27017/testdb",
+		"fbId": "AAAAg_Wk8VM:APA91bGd-AZ1sbOvtYguNosj0fpW0aKEJVzH-W4ONZicZ7dPCbnzX3OpjXopMDELdQQwiYO7DBor1V3OdkkRfc5aRLCByz18w-xummTyEBjn_mKrWqjO9_z5kVbPTo_u1g9CeKyjJLWt"
+	}
+}

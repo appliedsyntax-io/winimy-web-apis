@@ -1,0 +1,11 @@
+{
+  "name": "app-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app-error.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahesh",
+  "license": "ISC"
+}

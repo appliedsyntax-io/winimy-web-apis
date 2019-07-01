@@ -1,0 +1,30 @@
+{
+	"side_heading_1": "Templat tapak sudut 8",
+	"side_heading_2": "Templat Pentadbiran Angular",
+	"paragraph_1": "Gunakan semula komponen peribadi yang cantik, responsif dan fleksibel yang kami bina untuk Templat Angular 8 ini. Dengan Bootstrap 4, Universal Angular (Render Side Server), SEO, Loading Lazy dan dokumentasi terperinci tentang bagaimana untuk memulakan membina aplikasi Angular. Kes-kes penggunaan ton dilaksanakan cara sudut seperti aliran pengesahan, penyenaraian produk, penapisan, borang, pengawal penghalaan dan banyak lagi.",
+	"paragraph_2": "Dibuat dengan prestasi dan kemudahan perkembangan dalam fikiran, template web Angular 5 ini adalah sesuatu yang anda sukai. Ia merangkumi semua komponen yang mungkin anda perlukan di dalam projek dan dokumentasi terperinci bagaimana untuk memulakannya.",
+	"register":{
+		"title": "pendaftaran pengguna",
+		"title_desc": "Lengkapkan pendaftaran anda",
+		"username": "Nama pengguna",
+		"email": "Alamat emel",
+		"fname": "Nama pertama",
+		"lname": "Nama terakhir",
+		"address": "Alamat",
+		"city": "City",
+		"country": "Negara",
+		"postcode": "Poskod",
+		"submit": "Hantar",
+		"register_header": "Daftar",
+		"languages": "Bahasa"
+	},
+	"fcm": {
+		"title": "Hantar pemberitahuan tolak",
+		"title_desc": "",
+		"msg_title": "Tajuk",
+		"msg_body": "Badan",
+		"devices": "Peranti",
+		"fcm_header": "Buat Pemberitahuan Push"
+	}
+
+}
